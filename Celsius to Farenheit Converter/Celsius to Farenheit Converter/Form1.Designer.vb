@@ -104,7 +104,7 @@ Partial Class Form1
         Me.Controls.Add(Me.txtCelsius)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Celsius to Fahrenheit Converter"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
