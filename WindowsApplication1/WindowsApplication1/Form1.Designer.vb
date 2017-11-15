@@ -113,7 +113,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.btnCalculate)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Salary Calculator"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
